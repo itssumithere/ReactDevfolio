@@ -1,0 +1,84 @@
+#box1{
+    background-image: url(./man-looking-into-the-distance-on-top-of-the-mountain-picjumbo-com.jpg);
+    height: 81vh;
+    width: 100%;
+    background-position: center;
+    background-size:cover;
+    background-color: rgb(55,55, 55);
+    background-repeat: no-repeat;
+    display: flex;
+}
+
+#box2{
+    background-color: transparent;
+    width: 50%;
+    height: 81vh;
+    
+}
+#box3{
+    background-color: transparent;
+    width: 50%;
+    height: 81vh;
+    display:flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: auto;
+}
+
+#text1{
+    font-size: 80px;
+    font-weight: 500;
+    margin-top: 140px;
+    margin-left: 200px;
+    color :aliceblue
+
+}
+#text2{
+    font-size: 80px;
+    font-weight: 700;
+    margin-top: 100px;
+    margin-left: 90px;
+    color :yellow
+
+}
+#text3{
+    padding:10px 100px 10px 70px;
+    color: aliceblue;
+
+}
+#textred{
+    color: red;
+}
+
+#box4{
+    margin-left: 300px;
+    margin-top: 80px;
+    width: 300px;
+    height: 200px;
+    background-color: transparent;
+    color: aliceblue;
+    font-size: medium;
+    padding: 20px;
+    border-bottom: 2px solid white;
+    color:lightgreen
+    
+}
+#box5{
+    margin-left: 300px;
+    margin-top: 30px;
+    width: 300px;
+    height: 200px;
+    background-color: transparent;
+    color: aliceblue;
+    font-size: medium;
+    padding :20px;
+    border-bottom: 2px solid white;
+    color:lightgreen
+}
+#myimg{
+    background-image: url(./Logo.png);
+    height: 175px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+}

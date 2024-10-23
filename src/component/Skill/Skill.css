@@ -1,0 +1,27 @@
+.skill{
+    align-items: center;
+    justify-content: center;
+    width: 85%;
+    height: auto;
+    margin: 0px auto;
+    margin-top: 15px;
+    
+
+}
+
+#skilltitle{
+    font-weight: 600;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    margin: 0px 300px 0px 300px ;
+    padding: 0px 0px 3px 0px;
+    border-bottom: 5px solid white;
+}
+#sbox1{
+    width: 100%;
+    height: auto;
+    background-image: url(./favpng_light-desktop-wallpaper-blue-black-cyan.png);
+    background-size: cover;
+
+}
